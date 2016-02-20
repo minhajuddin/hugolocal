@@ -1,4 +1,4 @@
-baseurl = "http://hugolocal.zammu.in/"
+baseurl = ""
 languageCode = "en-us"
 title = "Hugo Local test site for Zammu"
 theme = "base16"
